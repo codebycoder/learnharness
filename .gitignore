@@ -1,6 +1,7 @@
 node_modules/
 data/
 .next/
+.env
 *.log
 .DS_Store
 *.tsbuildinfo
@@ -18,4 +19,3 @@ xai-credentials.json*
 
 # dev-fresh launcher scratch (fresh-user sim): disposable per launch
 .fresh-data/
-config.bat
